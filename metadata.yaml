@@ -1,0 +1,43 @@
+_repo: Red-love_75463
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kollontai, A. (Aleksandra)
+    aliases:
+    - Kollontay, Alexandra
+    - Коллонтай, А. (Александра)
+    - Kollantai, Alexandra
+    - Kollontai, Aleksandra Mikhailovna
+    - Kollontay, Aleksandra Mikhaylovna
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '58012'
+    url: http://www.gutenberg.org/2009/agents/58012
+    wikipedia: https://en.wikipedia.org/wiki/Alexandra_Kollontai
+description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/Red_Love_(novel)
+
+  Translation of: Василиса Малыгина (Vasilisa Malygina).'
+gutenberg_issued: '2025-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75463'
+  lccn: '27006908'
+language: en
+pgterms:marc904: https://archive.org/details/red-love-Alexandra-Kollontay
+pgterms:marc905: 20241110092521kollontay
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Mary Meehan and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bSeven Arts Publishing Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- Social life and customs -- Fiction'
+- !lcsh 'Communism and culture -- Soviet Union -- Fiction'
+- !lcsh 'Communism and society -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Red love
+url: http://www.gutenberg.org/ebooks/75463

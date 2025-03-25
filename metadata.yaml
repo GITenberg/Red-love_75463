@@ -1,5 +1,8 @@
 _repo: Red-love_75463
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75463-h/images/cover.jpg
 creator:
   author:
     agent_name: Kollontai, A. (Aleksandra)
@@ -17,6 +20,8 @@ creator:
 description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/Red_Love_(novel)
 
   Translation of: Василиса Малыгина (Vasilisa Malygina).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75463#Red-love
 gutenberg_issued: '2025-02-25'
 gutenberg_type: Text
 identifiers:
